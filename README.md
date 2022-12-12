@@ -1,8 +1,9 @@
 # Using the Google Places API with a Database and Visualizing Data on Google Map
 
-•	In this project, we are using the Google geocoding API to clean up some user-entered geographic locations of
-university names and then placing the data on a Google Map.\
-\
+![geodata](https://user-images.githubusercontent.com/82497670/207118623-3518b0f4-1c61-4c3b-b481-757f7cb86fed.png)
+
+### In this project, we are using the Google geocoding API to clean up some user-entered geographic locations of university names and then placing the data on a Google Map.
+
 •	In the first phase we take our input data in the file
 (where.data) and read it one line at a time, and retrieve the
 geocoded response and store it in a database (geodata.sqlite).
